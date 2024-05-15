@@ -23,9 +23,9 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			leaveType1: "left",
-			leaveType2: "was kicked from",
-			defaultLeaveMessage: "{userName} {type} the group"
+			leaveType1: "𝐭𝐮 𝐜𝐫𝐨𝐢𝐬 𝐪𝐮𝐞 𝐜'𝐞𝐬𝐭 𝐜𝐡𝐞𝐳 𝐭𝐨𝐢, 𝐠𝐞𝐧𝐫𝐞 𝐭𝐮 𝐞𝐧𝐭𝐫𝐞 𝐞𝐭 𝐭𝐮 𝐬𝐨𝐫𝐭 𝐪𝐮𝐚𝐧𝐝 𝐭𝐮 𝐯𝐞𝐮𝐱....😕🖕",
+			leaveType2: "𝐞́𝐭𝐞́ 𝐞𝐱𝐩𝐮𝐥𝐬𝐞́ 𝐝𝐮 𝐠𝐫𝐨𝐮𝐩𝐞,𝐩𝐚𝐫𝐜𝐞 𝐪𝐮'𝐢𝐥 𝐚̀ 𝐞́𝐭𝐞́ 𝐢𝐦𝐩𝐨𝐥𝐢𝐞 𝐚𝐯𝐞𝐜 𝐥𝐞 𝐁𝐨𝐬𝐬 𝐝𝐮 𝐠𝐫𝐨𝐮𝐩𝐞 🤧",
+			defaultLeaveMessage: "{userName} {type}"
 		}
 	},
 
@@ -96,3 +96,5 @@ module.exports = {
 			};
 	}
 };
+
+				
