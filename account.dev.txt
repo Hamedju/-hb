@@ -1,0 +1,137 @@
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261559711850603%22%3A%22T8EF0cig%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-05-15T06:55:53.511Z",
+        "lastAccessed": "2024-05-15T06:55:53.514Z"
+    },
+    {
+        "key": "datr",
+        "value": "vVREZvJNcm9TB0rxObv-PSmo",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-15T06:55:53.514Z",
+        "lastAccessed": "2024-05-15T06:55:53.514Z"
+    },
+    {
+        "key": "sb",
+        "value": "vVREZlQD6euoA27Jv4BH7dJt",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-15T06:55:53.514Z",
+        "lastAccessed": "2024-05-15T06:55:53.514Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-15T06:55:53.514Z",
+        "lastAccessed": "2024-05-15T06:55:53.514Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-15T06:55:53.514Z",
+        "lastAccessed": "2024-05-15T06:55:53.514Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-15T06:55:53.514Z",
+        "lastAccessed": "2024-05-15T06:55:53.514Z"
+    },
+    {
+        "key": "fr",
+        "value": "06lEmVBS3K1ewyUOm.AWUbqSEtbqZrirXic-jyUfvhYgo.BmRFS9..AAA.0.0.BmRFWI.AWXcfEjdb7Q",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-15T06:55:53.514Z",
+        "lastAccessed": "2024-05-15T06:55:53.514Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61559711850603",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-15T06:55:53.514Z",
+        "lastAccessed": "2024-05-15T06:55:53.514Z"
+    },
+    {
+        "key": "xs",
+        "value": "35%3A8ipCVc_HYsKH3Q%3A2%3A1715754377%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-15T06:55:53.514Z",
+        "lastAccessed": "2024-05-15T06:55:53.514Z"
+    },
+    {
+        "key": "m_page_voice",
+        "value": "61559711850603",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-15T06:55:53.514Z",
+        "lastAccessed": "2024-05-15T06:55:53.514Z"
+    },
+    {
+        "key": "wd",
+        "value": "360x806",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-15T06:55:53.514Z",
+        "lastAccessed": "2024-05-15T06:55:53.514Z"
+    },
+    {
+        "key": "locale",
+        "value": "fr_FR",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-15T06:55:53.514Z",
+        "lastAccessed": "2024-05-15T06:55:53.514Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2500%3Btimestamp%3A1715754410",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-15T06:55:53.514Z",
+        "lastAccessed": "2024-05-15T06:55:53.514Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101239282%3BT%3A28595906",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-15T06:55:53.514Z",
+        "lastAccessed": "2024-05-15T06:55:53.514Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B662x360x2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-15T06:55:53.514Z",
+        "lastAccessed": "2024-05-15T06:55:53.514Z"
+    }
+]
